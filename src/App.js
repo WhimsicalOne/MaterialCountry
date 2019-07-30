@@ -4,9 +4,7 @@ import "./App.css";
 function App() {
     return (
         <div className='App'>
-            <h1>Hello World!</h1>
-            <p>Hello World in a paragraph!</p>
-            This is sparta!
+            <h1>Add Page Conponents here..</h1>
         </div>
     );
 }
